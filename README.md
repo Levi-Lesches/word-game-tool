@@ -19,7 +19,7 @@ Check out the Projects tab and the currently open project. You will find some 'T
 *Please consult the wiki on [How to Contribute](https://github.com/Learning-Python-Team/word-game-tool/wiki/How-this-Project-Works#simplest-way-to-contribute) before starting.*
 
 # Current Phase
-### Phase 1: Score Finder 
-The user enters their word and it calculates the base score in scrabble based on the letter values only
+### Phase 2: Score Comparer 
+The user gives 2 words and the program indicates which is the better scorer based on the letter values only.
 
 **For more information:** Please see the [Wiki](https://github.com/Learning-Python-Team/word-game-tool/wiki)
